@@ -1,6 +1,6 @@
 # 📘 TDS Solver
 
-**TDS Solver** is an LLM-powered API built for the Tools in Data Science (TDS) course of IIT Madras' Online BSc Degree. It automatically answers questions from any of the 5 graded assignments by processing a question and optional file input.
+**TDS Solver** is an LLM-powered API built for the Tools in Data Science (TDS) course of IIT Madras' BS Degree. It automatically answers questions from any of the 5 graded assignments by processing a question and optional file input.
 
 ---
 
@@ -12,4 +12,4 @@
 - Publicly deployed for easy access and testing
 
 ---
-
+Project link :- https://tds.s-anand.net/#/project-2
